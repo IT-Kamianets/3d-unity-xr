@@ -1,4 +1,4 @@
-# IT-Kamianets 3D Engine — Unity XR
+# IT-Kamianets 3D Engine: Unity XR
 
 `3d-unity-xr` provides reusable XR functionality for Unity applications built on the **IT-Kamianets 3D Engine**.
 
