@@ -1,0 +1,20 @@
+{
+  "name": "com.itkamianets.3d-unity-xr",
+  "version": "0.1.0",
+  "displayName": "IT-Kamianets 3D Engine: Unity XR",
+  "description": "Reusable Meta Quest XR interaction primitives (controller button events, world-space status HUD). Product-independent -- no scanning-specific logic lives here.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "author": {
+    "name": "IT Kamianets"
+  },
+  "keywords": [
+    "3d-engine",
+    "it-kamianets",
+    "meta-quest"
+  ],
+  "dependencies": {
+    "com.itkamianets.3d-unity-core": "0.1.0",
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}

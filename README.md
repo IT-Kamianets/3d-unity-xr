@@ -10,6 +10,10 @@ This package brings the generic interaction capabilities of the engine into VR/M
 
 It should handle **how users interact with a 3D world through XR**, while physical-room understanding and room scanning belong to `3d-unity-spatial`.
 
+### Status (version A)
+
+Bare minimum for `vroom-scanner`'s scan-and-upload loop: `XRPrimaryButtonAction` (fires once per controller button press -- doesn't know what the button does) and `StatusHud` (world-space text, `SetStatus(string)` -- doesn't know what it's reporting on). No hand tracking, grabbing, teleportation, locomotion, or ID-entry UI yet -- those are unrelated to triggering and confirming a scan, so they stay on the roadmap below until something actually needs them.
+
 ### Roadmap
 
 * OpenXR foundation

@@ -1,0 +1,26 @@
+{
+    "name": "ITKamianets.Engine.XR.Editor.Tests",
+    "rootNamespace": "ITKamianets.Engine.XR.Editor.Tests",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.XR",
+        "ITKamianets.Engine.XR.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ITKamianets.Engine.XR.Tests",
+    "rootNamespace": "ITKamianets.Engine.XR.Tests",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.XR",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

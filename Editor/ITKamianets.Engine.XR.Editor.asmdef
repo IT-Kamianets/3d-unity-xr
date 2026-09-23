@@ -1,0 +1,19 @@
+{
+    "name": "ITKamianets.Engine.XR.Editor",
+    "rootNamespace": "ITKamianets.Engine.XR.Editor",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.XR"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
