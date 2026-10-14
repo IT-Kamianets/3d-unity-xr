@@ -3,6 +3,8 @@
     "rootNamespace": "ITKamianets.Engine.XR",
     "references": [
         "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.Input",
+        "Unity.InputSystem",
         "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
