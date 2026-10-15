@@ -2,7 +2,7 @@
   "name": "com.itkamianets.3d-unity-xr",
   "version": "0.1.0",
   "displayName": "IT-Kamianets 3D Engine: Unity XR",
-  "description": "XR for the IT-Kamianets 3D Engine: controller actions through 3d-unity-input, headset status, a world-space status display that can follow the view. Meta Quest first; product-independent.",
+  "description": "XR for the IT-Kamianets 3D Engine: a VR rig that follows a character (headset camera, controller hands, snap/smooth turn, comfort vignette, room-scale steps), controller pointing at world-space UI, headset status. OpenXR-ready; product-independent.",
   "unity": "6000.6",
   "license": "MIT",
   "author": {
@@ -14,9 +14,11 @@
     "meta-quest"
   ],
   "dependencies": {
+    "com.itkamianets.3d-unity-character": "0.1.0",
     "com.itkamianets.3d-unity-core": "0.1.0",
     "com.itkamianets.3d-unity-input": "0.1.0",
-    "com.unity.ugui": "2.6.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.inputsystem": "1.20.0",
+    "com.unity.modules.xr": "1.0.0",
+    "com.unity.ugui": "2.6.0"
   }
 }

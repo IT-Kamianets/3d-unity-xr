@@ -4,8 +4,10 @@
     "references": [
         "ITKamianets.Engine.Core",
         "ITKamianets.Engine.Input",
+        "ITKamianets.Engine.Character",
         "Unity.InputSystem",
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

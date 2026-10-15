@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- `XRCharacterRig` (headset camera and hands on a `CharacterMotor`, room-scale steps, eye height, snap/smooth turn, teleport re-facing, body hidden, view smoothing, UI tracking origin), `XRComfort`, `ComfortVignette`, `XRModeSwitch`, `XRHeadDriver`, `XRVisuals`, `XRStatus.IsActive`.
+- Depends on `3d-unity-character` and the Input System.
+
+### Added
+
 - `StatusHud` (world-space status text; can follow the view), `XRStatus`.
 
 ### Changed
